@@ -23,8 +23,8 @@
 
       {
        "schema" : "dbo",
-       "Table"  : "DimArtist"
-      "cdc_column" : "updated_at"
+       "Table"  : "DimArtist",
+      "cdc_column" : "updated_at",
       "date" : ""
      },
 
