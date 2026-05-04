@@ -2,22 +2,22 @@
 
      {
        "schema" : "dbo",
-       "Table"  : "DimUser"
-      "cdc_column" : "updated_at"
+       "Table"  : "DimUser",
+      "cdc_column" : "updated_at",
       "date" : ""
      },
 
      {
        "schema" : "dbo",
-       "Table"  : "DimTrack"
-      "cdc_column" : "updated_at"
+       "Table"  : "DimTrack",
+      "cdc_column" : "updated_at",
       "date" : ""
      },
 
       {
        "schema" : "dbo",
-       "Table"  : "DimDate"
-      "cdc_column" : "updated_at"
+       "Table"  : "DimDate",
+      "cdc_column" : "updated_at",
       "date" : ""
      },
 
@@ -30,8 +30,8 @@
 
      {
        "schema" : "dbo",
-       "Table"  : "FactStream"
-      "cdc_column" : "updated_at"
+       "Table"  : "FactStream",
+      "cdc_column" : "updated_at",
       "date" : ""
      }
 
