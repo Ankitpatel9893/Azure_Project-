@@ -17,7 +17,7 @@
       {
        "schema" : "dbo",
        "Table"  : "DimDate",
-      "cdc_column" : "updated_at",
+      "cdc_column" : "date",
       "date" : ""
      },
 
@@ -31,7 +31,7 @@
      {
        "schema" : "dbo",
        "Table"  : "FactStream",
-      "cdc_column" : "updated_at",
+      "cdc_column" : "stream_timestamp",
       "date" : ""
      }
 
